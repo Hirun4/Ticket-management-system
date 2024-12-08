@@ -1,4 +1,4 @@
-package dev.theshawa.TicketManagementSystemBackend;
+package dev.hirun.TicketManagementSystemBackend;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
