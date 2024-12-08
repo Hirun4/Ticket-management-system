@@ -1,0 +1,27 @@
+/* Log Display Component Styles */
+.log-display {
+    background-color: #f9f9f9;
+    padding: 20px;
+    border-radius: 5px;
+    border: 1px solid #ddd;
+    margin-top: 20px;
+}
+
+.log-display h3 {
+    font-size: 1.5rem;
+    margin-bottom: 10px;
+}
+
+.log-display ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.log-display ul li {
+    font-size: 14px;
+    color: #555;
+    margin-bottom: 8px;
+    background-color: #f1f1f1;
+    padding: 10px;
+    border-radius: 5px;
+}

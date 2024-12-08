@@ -1,0 +1,29 @@
+/* Control Panel Component Styles */
+.control-panel {
+    margin-top: 20px;
+    padding: 20px;
+    background-color: #f9f9f9;
+    border-radius: 5px;
+    border: 1px solid #ddd;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.control-panel button {
+    padding: 10px 20px;
+    background-color: #28a745;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.control-panel button:hover {
+    background-color: #218838;
+}
+
+.control-panel button:disabled {
+    background-color: #ddd;
+    cursor: not-allowed;
+}

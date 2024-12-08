@@ -1,0 +1,39 @@
+/* Configuration Form Component Styles */
+.configuration-form {
+    background-color: #f9f9f9;
+    padding: 20px;
+    border-radius: 5px;
+    border: 1px solid #ddd;
+    margin-top: 20px;
+}
+
+.configuration-form h3 {
+    font-size: 1.5rem;
+    margin-bottom: 10px;
+}
+
+.configuration-form label {
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+.configuration-form input {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.configuration-form button {
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.configuration-form button:hover {
+    background-color: #0056b3;
+}
